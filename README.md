@@ -1,4 +1,4 @@
-# ProcesosEstocasticos
+# Procesos Estocasticos
 
 Acá voy a subir los problemas de la materia. 
 
@@ -8,4 +8,5 @@ Si querés correr el programa localmente recomiendo instalar Anaconda que instal
 todas las librerias científicas que necesitamos y Jupyter.
 
 Para Linux: https://conda.io/docs/user-guide/install/linux.html
-Paea Win:   https://conda.io/docs/user-guide/install/windows.html
+
+Para Win:   https://conda.io/docs/user-guide/install/windows.html
